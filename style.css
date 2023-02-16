@@ -1,0 +1,33 @@
+.rouge{
+    color: orange;
+    
+    text-align:center;
+}
+.img{
+    display: block;
+    height: 110px;
+    width: 130px;
+    margin: auto;
+
+}
+
+.cadre {
+    text-align:center;
+    display: block;
+    background-color: rgb(247, 184, 165);
+    margin: auto;
+    height: 50px;
+    width: 150px;
+}
+
+.cadre1 {
+    text-align:center;
+    display: block;
+    background: linear-gradient(to right,rgb(249, 152, 117), pink);  
+    margin: auto;
+    height: 50px;
+    width: 150px;
+}
+
+
+
